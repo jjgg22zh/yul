@@ -1,7 +1,3 @@
-/*!
- * Digital Stable Unit (DSU) - Yul+ Implementation
- */
-
 pragma evm "cancun"
 
 // 1. Define the external Oracle Interface for the Transformer
